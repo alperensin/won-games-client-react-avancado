@@ -3,7 +3,7 @@ import 'jest-styled-components';
 
 import MediaMatch from '.';
 
-describe('<MediaMatch />', () => {
+describe('🧪 <MediaMatch />', () => {
   let desktopHeading: Element;
   let mobileHeading: Element;
 
