@@ -51,5 +51,5 @@ jobs:
       - name: Making tests
         run: npm test
       
-      - name: Make build production with pwa
-        run: NODE_ENV=production npm run build
+      # - name: Make build production with pwa
+      #   run: NODE_ENV=production npm run build
