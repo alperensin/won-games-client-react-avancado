@@ -10,7 +10,7 @@ declare global {
       sample?: string | RegExp | object | Array<any> | Function;
     }
 
-    type Value = string | number | RegExp | AsymetricMatcher | undefined;
+    type Value = string | number | RegExp | AsymmetricMatcher | undefined;
 
     interface Options {
       media?: string;

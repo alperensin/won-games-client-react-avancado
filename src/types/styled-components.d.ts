@@ -1,4 +1,3 @@
-import { SSL_OP_TLS_ROLLBACK_BUG } from 'constants';
 import theme from 'styles/theme';
 
 // Inferência de tipos
